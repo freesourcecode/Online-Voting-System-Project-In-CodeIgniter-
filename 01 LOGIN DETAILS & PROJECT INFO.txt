@@ -1,0 +1,8 @@
+**Admin Login Details**
+
+Username: jude
+Password: 123
+
+
+
+**Default Password for both voters and new admin will be the same as their usernames**
